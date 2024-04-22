@@ -38,5 +38,5 @@
     cat > file.txt file2.txt
     cat > file.txt | cat
     cat | cat < file.txt
-    ```
     cd / > file.txt
+    ```
